@@ -1,0 +1,1 @@
+The beakn-sparkcore library is part of a DIY Lync Status light called beakn. You flash this file to your SparkCore and install a desktop application to send your Lync status to it. You can find more information about beakn here: http://blog.jongallant.com/2014/12/beakn-v0-4-diy-lync-status-light.html
